@@ -1,5 +1,3 @@
-# umamageshwari
-
 # Umamageshwari - Data Analyst 
 
 👋 Hello! I'm Umamageshwari, a data analyst passionate about extracting insights from data to drive informed decisions.
@@ -22,7 +20,8 @@
 
 
 ## Projects
-https://github.com/mageshwari26/HR-ANALYTICS_DASHBOARD
+This project involved an exploratory analysis of the Amazon Prime Video dataset to understand content trends, including types of content, top producing countries, and content ratings. Key skills used: Python, pandas, matplotlib, seaborn.
+[Repository Link]  
 
 
 
