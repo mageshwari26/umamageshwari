@@ -24,15 +24,14 @@ This project involved an exploratory analysis of the Amazon Prime Video dataset 
 [Reprository Link](https://github.com/mageshwari26/amazon-prime-analysis) 
 ### HR Analytics Dashboard
 Developed an interactive HR dashboard to visualize and analyze employee data, providing insights into workforce demographics, attrition rates, and employee distribution across departments. Key skills used: Data visualization, dashboard design, HR data analysis.
-[Repository Link]()
-
-
+[Repository Link](https://github.com/mageshwari26/HR-ANALYTICS_DASHBOARD)
 
 
 
 ## Connect with Me
 
-* [Link to your LinkedIn profile]
-* [Link to your email address (optional)]
+* [https://www.linkedin.com/in/uma-mageshwari-366518326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+* [mageshwariu07@gmail.com]
+
 
 ---
