@@ -20,6 +20,7 @@
 
 
 ## Projects
+### Amazon Analysis
 This project involved an exploratory analysis of the Amazon Prime Video dataset to understand content trends, including types of content, top producing countries, and content ratings. Key skills used: Python, pandas, matplotlib, seaborn.
 [Reprository Link](https://github.com/mageshwari26/amazon-prime-analysis) 
 ### HR Analytics Dashboard
