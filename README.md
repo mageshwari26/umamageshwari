@@ -25,7 +25,9 @@ This project involved an exploratory analysis of the Amazon Prime Video dataset 
 ### HR Analytics Dashboard
 Developed an interactive HR dashboard to visualize and analyze employee data, providing insights into workforce demographics, attrition rates, and employee distribution across departments. Key skills used: Data visualization, dashboard design, HR data analysis.
 [Repository Link](https://github.com/mageshwari26/HR-ANALYTICS_DASHBOARD)
-
+### Ecommerce_analysis
+This interactive dashboard, built with Power BI, visualizes sales and profit data for an e-commerce business. It offers a quick way to gain insights into sales trends, top-selling products, and revenue distribution by payment method.
+[Repository Link](https://github.com/mageshwari26/ecommerce_analysis)
 
 
 ## Connect with Me
